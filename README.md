@@ -3,7 +3,7 @@ This project involves developing machine learning models to detect fraudulent cr
 
 ## Dataset
 The dataset used contains transactions made by European cardholders in September 2013. It is highly imbalanced, with only 492 fraudulent transactions.
-The dataset can either be accessed from here or can be downloaded from the website https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+The dataset for analysing can be downloaded directly from the website link, https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud. The code however downloads the dataset directly.
 
 ## Data Preprocessing
 - Handled class imbalance using SMOTE (Synthetic Minority Over-sampling Technique).
